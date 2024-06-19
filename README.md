@@ -1,4 +1,5 @@
 - Racha Conta 1.0 - Calculadora para divisão de contas entre amigos (ou não).
+- Racha Conta 1.0 - Calculator for dividing bills between friends (or not).
 
 - Dev. Lucas Fraga
 - Contact me: lucasfraga.dev@gmail.com 
